@@ -1,0 +1,26 @@
+* {
+  color: green;
+  margin: 0;
+  /*  */
+  padding: 0;
+}
+
+.xyz {
+  border: 1px solid #ffffff;
+  margin: 100px;
+  color: brown;
+  height: 100vh;
+  /* It depent screen height or view height or vh */
+  width: 100%;
+  /* Width depend on screen size */
+  /* To define the background color of elements */
+  background-color: #000000;
+}
+
+.abc {
+  color: aqua;
+}
+
+#lmn {
+  color: chocolate;
+}
